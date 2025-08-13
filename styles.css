@@ -6,7 +6,7 @@ body{
  .Forget-box{
    background: rgba(255, 255, 255, 0.4);
    border-radius: 15px;
-   margin: 600px 150px 0 150px;
+   margin: 830px 150px 0 150px;
    font-weight: bold;
  }
 h2{
@@ -44,8 +44,8 @@ label{
   border-radius: 15px;
   font-weight: bold;
   width: 150px;
-  height: 45px;
-  margin: 5px 10px 5px 10px;
+  height: 50px;
+  margin: 5px 10px 5px 40px;
   color: white;
   background-color: #06C755;
 }
@@ -54,7 +54,7 @@ label{
   border-radius: 15px;
   font-weight: bold;
   width: 250px;
-  height: 50px;
+  height: 60px;
   text-align: center;
   margin: 0 0 10px 200px;
   color: white;
