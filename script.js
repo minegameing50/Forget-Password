@@ -50,6 +50,6 @@ function validateForget(event) {
 
     // ✅ Passed all validations
     alert(" successfully Forget!");
-    window.location.href = "https://yourwebsite.com/welcome.html"; // Change this to your redirect page
+    window.location.href = "https://minegameing50.github.io/Create-New-Password/"; // Change this to your redirect page
     return true;
 }
